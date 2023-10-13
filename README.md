@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there 👋, my name is Luqman Haqeem
 
-I'm a Software Engineer based in Ara Damansara, Selangor, Malaysia, with a strong dedication to programming and a keen eye for detail. I love exploring new technologies and constantly expanding my skill set. PHP is my go-to language, and I feel most comfortable using CodeIgniter as my preferred framework. However, I've also worked on several projects using Laravel. I'm enthusiastic about collaborating on innovative projects and delivering high-quality solutions.
+I'm a Software Engineer based in Hulu Langat, Selangor, Malaysia, with a strong dedication to programming and a keen eye for detail. I love exploring new technologies and constantly expanding my skill set. PHP is my go-to language, and I feel most comfortable using CodeIgniter as my preferred framework. However, I've also worked on several projects using Laravel. I'm enthusiastic about collaborating on innovative projects and delivering high-quality solutions.
 
 
 🔭 I’m currently working on  [this page](https://water-level.onrender.com/).
